@@ -9,6 +9,7 @@ une plateforme web de gestion scolaire pour les écoles haïtiennes : inscriptio
 en ligne, paiements mobiles, notes, bulletins et documents officiels.
 
 - 🌐 Site : https://lekolkonekte.online
+- 💼 LinkedIn : https://www.linkedin.com/in/steven-plaisival-08a996428/
 - 🛠️ Technologies : React, Node.js / Express, MySQL
 
 > « Edikasyon ak Koneksyon pou demen. »
